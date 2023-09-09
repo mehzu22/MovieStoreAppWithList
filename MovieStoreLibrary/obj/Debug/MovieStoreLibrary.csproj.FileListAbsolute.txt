@@ -1,0 +1,6 @@
+D:\DotNet\MovieStoreAppWithList\MovieStoreLibrary\bin\Debug\MovieStoreLibrary.dll
+D:\DotNet\MovieStoreAppWithList\MovieStoreLibrary\bin\Debug\MovieStoreLibrary.pdb
+D:\DotNet\MovieStoreAppWithList\MovieStoreLibrary\obj\Debug\MovieStoreLibrary.csproj.AssemblyReference.cache
+D:\DotNet\MovieStoreAppWithList\MovieStoreLibrary\obj\Debug\MovieStoreLibrary.csproj.CoreCompileInputs.cache
+D:\DotNet\MovieStoreAppWithList\MovieStoreLibrary\obj\Debug\MovieStoreLibrary.dll
+D:\DotNet\MovieStoreAppWithList\MovieStoreLibrary\obj\Debug\MovieStoreLibrary.pdb

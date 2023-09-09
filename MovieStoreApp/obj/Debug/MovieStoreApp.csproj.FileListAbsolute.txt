@@ -1,0 +1,11 @@
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\bin\Debug\MovieStoreApp.exe.config
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\bin\Debug\MovieStoreApp.exe
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\bin\Debug\MovieStoreApp.pdb
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\bin\Debug\MovieStoreLibrary.dll
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\bin\Debug\MovieStoreLibrary.pdb
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.AssemblyReference.cache
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.CoreCompileInputs.cache
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.CopyComplete
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\obj\Debug\MovieStoreApp.exe
+D:\DotNet\MovieStoreAppWithList\MovieStoreApp\obj\Debug\MovieStoreApp.pdb
